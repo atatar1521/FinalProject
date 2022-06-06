@@ -13,7 +13,6 @@
                 <td><%= Math.pow(2, i) %></td>
             </tr>
      <% } //end for loop %>
-
 </table>
 </center>
 </body>
